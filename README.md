@@ -1,4 +1,4 @@
-# JavaScript Functional Library Project
+# JavaScript Functional Library Project c
 
 ## Learning Goals
 
